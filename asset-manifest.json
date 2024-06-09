@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REdux-to-do/static/css/main.715dde65.css",
+    "main.js": "/REdux-to-do/static/js/main.fa50ab77.js",
+    "index.html": "/REdux-to-do/index.html",
+    "main.715dde65.css.map": "/REdux-to-do/static/css/main.715dde65.css.map",
+    "main.fa50ab77.js.map": "/REdux-to-do/static/js/main.fa50ab77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.715dde65.css",
+    "static/js/main.fa50ab77.js"
+  ]
+}
